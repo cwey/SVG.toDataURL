@@ -6,7 +6,7 @@ The missing `SVG.toDataURL()` for your SVG elements. Supports exporting as SVG+X
 See [original paper][svgopen2010] for more information on interfacing between SVG and Canvas.
 
 Instructions
-------------
+-----
 
 1. Include [canvg] if you need PNG support for unsupported browers (see compatibility below).
 2. `<script type="text/javascript" src="svg_todataurl.js"></script>`
